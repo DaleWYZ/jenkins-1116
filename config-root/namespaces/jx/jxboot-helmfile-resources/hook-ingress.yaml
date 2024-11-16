@@ -21,4 +21,4 @@ spec:
             port:
               number: 80
         path: "/hook"
-    host: hook-jx.wyz.jenkinsx.com
+    host: a9af-107-215-251-100.ngrok-free.app
